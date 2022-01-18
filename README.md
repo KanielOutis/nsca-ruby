@@ -1,4 +1,4 @@
-pure ruby NSCA library
+Fork of pure ruby NSCA library https://git.denkn.at/deac/ruby-nsca/src/branch/master
 ======================
 
 NSCA is a protocol for Nagios passive checks.
